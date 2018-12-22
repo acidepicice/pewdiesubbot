@@ -1,0 +1,3 @@
+# Ignore Python compilation files
+*.pyc
+
