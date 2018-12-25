@@ -2,7 +2,7 @@ import praw
 from urllib2 import urlopen
 import json
 
-key = "[redacted for obvious reasons]"
+key = "[redacted]" # Google Youtube API key
 pewdielink = "https://www.googleapis.com/youtube/v3/channels?part=statistics&forUsername=pewdiepie&key="+key
 tserieslink = "https://www.googleapis.com/youtube/v3/channels?part=statistics&forUsername=tseries&key="+key
 
