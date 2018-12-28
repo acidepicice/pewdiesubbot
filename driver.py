@@ -92,12 +92,3 @@ if (__name__ == "__main__") :
         # exit cleanly
         exit(0)
         
-    
-    
-    
-    '''
-for submission in subreddit.new(limit=5):
-    print("Title: ", submission.title)
-    print("Score: ", submission.score)
-    print("---------------------------------\n")
-'''

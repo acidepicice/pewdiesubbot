@@ -20,6 +20,5 @@ def commentreply (comment) :
     elif (tseriessubs > pewdiesubs) :
         comment.reply("T-Series currently has " + ("{:,d}".format( tseriessubs - pewdiesubs )) + " more subscribers than PewDiePie!")
     
-    #comment.reply("Hi, u/" + author + "! You seem to have misspelled **Kai'Sa** as **" + error + "**. Have a nice day!  \n *** \n ^(I'm just a bot, please don't hurt me!)")
-    #comment.upvote()
+    comment.upvote()
 
